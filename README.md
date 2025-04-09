@@ -24,7 +24,7 @@ Born from the idea that memes and meaning can coexist, TestCoin is your ticket t
 
 ## About This Website
 
-This GitHub repository serves as the initial homepage for TestCoin and will evolve alongside the project. Stay tuned for updates, guides, and more tools to help you dive into the world of TestCoin.
+This GitHub repository serves as the initial homepage for TestCoin and is fully open to contributions. Whether you're a developer, designer, or just a fan of the mission — you're welcome to help expand both the source code and this website. TestCoin will grow with its community, and every PR, idea, or meme counts. Stay tuned for updates, guides, and tools to help you dive into the world of TestCoin.
 
 ---
 
